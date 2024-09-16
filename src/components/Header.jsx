@@ -26,9 +26,9 @@ const Header = () => {
     <>
       <nav className="py-4 flex justify-between items-center">
         <Link>
-          <img src="/logo.png" alt="" className="h-20" />
+          <img src="/logo2.png" alt="" className="h-36" />
         </Link>
-        <Link>Home</Link>
+    
         <div className="flex gap-4">
           <SignedOut>
             <Button variant="outline" onClick={() => setShowsignIn(true)}>

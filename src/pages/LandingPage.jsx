@@ -24,7 +24,7 @@ const LandingPage = () => {
           Find Your Dream Job{" "}
           <span className="flex items-center justify-center gap-2 sm:gap-6">
             and get{" "}
-            <img src="/logo.png" alt="" className="h-14 sm:h-24 lg:h-32" />
+            <img src="/logo_full.png" alt="" className="h-10 sm:h-24 lg:h-32" />
           </span>
         </h1>
         <p className=" text-gray-300 sm:mt-4 text-xs sm:text-xl">
