@@ -65,7 +65,7 @@ const ApplicationElement = ({ application, isCandidate = false }) => {
           </div>
           <div className="flex gap-2 items-center">
             <Boxes size={18} />
-            Skills: {application?.education}
+            Skills: {application?.skills}
           </div>
         </div>
         <hr />
